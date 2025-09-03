@@ -34,13 +34,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pranav0440&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav0440&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pranav-0440&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-0440&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav0440&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-0440&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
