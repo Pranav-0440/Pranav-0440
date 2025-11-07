@@ -7,11 +7,11 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently building: **Gesture AI**, **Offline Assistant**, and **HotelFaceLoyalty**
-- 🌱 I’m learning: **Flutter**, **Kotlin**, and **advanced OpenCV**
+- 🔭 I’m currently building: **Data Structure And Algorithm's**, **Ai Projects**, and **Open Source Contributions**
+- 🌱 I’m learning: **Java**, **Python**, and **Full-Stack**
 - 💡 I love working on: **AI projects**, **clean tech**, and **gesture interfaces**
-- 📫 Reach me at: `pranavghorpade@ieee.org`
-- ⚡ Fun fact: My coconut shell tech powers sensors & cosmetics 🌴⚙️💡
+- 📫 Reach me at: `pranavghorpade82@mail.com`
+
 
 ---
 
@@ -47,19 +47,22 @@
 
 ### 🧰 Currently Working On
 
+
+- 🔹 Open Source Contributions
+- 🔹 Data Structure And Algorithm's
 - 🔹 Gesture AI – Real-time system control using hand tracking
 - 🔹 HotelFaceLoyalty – Facial recognition + loyalty system for hotel guests
 - 🔹 Offline Assistant – Voice/chat assistant with no internet dependency
-- 🔹 ShellCell™ – Sustainable MFC using coconut shell electrodes
+
 
 ---
 
 ### 🌐 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/pranavghorpade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:pranavghorpade@ieee.org"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
-  <a href="https://github.com/pranav0440"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/pranav-ghorpade-4a9913293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:pranavghorpade82@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
+  <a href="https://github.com/Pranav-0440"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
 </p>
 
 ---
