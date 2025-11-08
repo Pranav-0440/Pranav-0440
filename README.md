@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv" />
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github">
 </p>
 
 ---
