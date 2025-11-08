@@ -1,5 +1,8 @@
 <!-- GitHub Profile README for pranav0440 -->
 
+<p align="center"><img src="https://camo.githubusercontent.com/ee6c4e6387b46dbdf71a51c35b3c93dbf3cd1f5de8804e42c65a07c50c178611/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f616e696d6174696f6e3d66616465496e26747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d32303026666f6e74416c69676e593d3430" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Pranav Ghorpade</h1>
 <h3 align="center">I build real-world products using code, AI, and creativity.</h3>
 
