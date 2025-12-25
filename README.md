@@ -77,5 +77,7 @@
 
 ---
 
+![GitHub GIF](githubgif.gif)
+
 > ⚙️ “Code is my canvas. AI is my playground.”
 
