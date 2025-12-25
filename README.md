@@ -19,7 +19,7 @@
 - 🔭 I’m currently building: **Data Structure And Algorithm's**, **Ai Projects**, and **Open Source Contributions**
 - 🌱 I’m learning: **Java**, **Python**, and **Full-Stack**
 - 💡 I love working on: **AI projects**, **clean tech**, and **gesture interfaces**
-- 📫 Reach me at: `pranavghorpade82@mail.com`
+- 📫 Reach me at: `pranavghorpade82@gmail.com`
 
 
 ---
