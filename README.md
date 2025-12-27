@@ -95,10 +95,14 @@
 
 #### 📈 Overall Performance
 
-<a href="https://github.com/Pranav-0440">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranav-0440&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true&include_all_commits=true&custom_title=GitHub%20Performance%20Metrics" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-0440&layout=compact&langs_count=20&theme=radical&hide_border=true&border_radius=15" alt="Top Languages"/>
-</a>
+<p align="center">
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=Pranav-0440&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
+       alt="GitHub Stats"/>
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-0440&layout=compact&langs_count=12&theme=radical&hide_border=true"
+       alt="Top Languages"/>
+</p>
 
 #### 🔥 Contribution Streak
 
