@@ -96,12 +96,12 @@
 #### 📈 Overall Performance
 
 <p align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=Pranav-0440&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
-       alt="GitHub Stats"/>
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-0440&layout=compact&langs_count=12&theme=radical&hide_border=true"
-       alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-0440&theme=github_dark" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav-0440&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranav-0440&theme=github_dark" width="45%" />
 </p>
 
 #### 🔥 Contribution Streak
