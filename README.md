@@ -95,17 +95,6 @@
 
 <div align="center">
 
-#### 📈 Overall Performance
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-0440&theme=github_dark" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav-0440&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranav-0440&theme=github_dark" width="45%" />
-</p>
-
 #### 🔥 Contribution Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-0440&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak" />
