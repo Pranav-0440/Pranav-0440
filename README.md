@@ -148,7 +148,15 @@
 - 🔹 Gesture AI – Real-time system control using hand tracking
 - 🔹 HotelFaceLoyalty – Facial recognition + loyalty system for hotel guests
 - 🔹 Offline Assistant – Voice/chat assistant with no internet dependency
+  
+---
+### 📜 LeetCode Stats
 
+<p align="center">
+  <a href="https://leetcode.com/u/pranav_0440/">
+    <img src="https://leetcard.jacoblin.cool/pranav_0440?theme=dark&font=Marcellus&ext=heatmap" width="75%" />
+  </a>
+</p>
 
 ---
 ### 🏆 GitHub Achievements
