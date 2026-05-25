@@ -1,187 +1,412 @@
-<!-- GitHub Profile README for pranav0440 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 PRANAV GHORPADE — GitHub Profile README                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://camo.githubusercontent.com/ee6c4e6387b46dbdf71a51c35b3c93dbf3cd1f5de8804e42c65a07c50c178611/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f616e696d6174696f6e3d66616465496e26747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d32303026666f6e74416c69676e593d3430" width="100%" />
+<!-- ──────────────── ANIMATED HEADER BANNER ──────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6C63FF&height=220&section=header&text=Pranav%20Ghorpade&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20Open%20Source%20Contributor%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18&descColor=a9b1d6" width="100%" />
 
+<!-- ──────────────── ANIMATED TYPING SVG ──────────────── -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Pranav+Ghorpade;I+build;real-world+products;using+code%2C+AI%2C+and+creativity" 
-    alt="Animated Welcome Text" 
-  />
-</p>
-
-<p align="center">
-  <em>AI Enthusiast | Open Source Contributor | Lifelong Learner</em>
-</p
----
-
-### 🧠 About Me
-
-- 🔭 I’m currently building: **Data Structure And Algorithm's**, **Ai Projects**, and **Open Source Contributions**
-- 🌱 I’m learning: **Java**, **Python**, and **Full-Stack**
-- 💡 I love working on: **AI projects**, **clean tech**, and **gesture interfaces**
-- 📫 Reach me at: `pranavghorpade82@gmail.com`
-
-
----
-
-### 🧰 Technologies & Tools
-
-#### 💻 Languages
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" /><br/>Java</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" /><br/>Python</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" /><br/>C</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /><br/>C++</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" /><br/>HTML5</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" /><br/>CSS3</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" /><br/>Javascript</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" /><br/>MySql</td>
-    </tr>
-  </table>
-</div>
-
-#### 📚 Frameworks & Libraries
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" /><br/>NumPy</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" /><br/>Pandas</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="50" height="50" /><br/>OpenCV</td>
-      <td align="center"><img src="https://img.shields.io/badge/MediaPipe-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>MediaPipe</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" /><br/>Matplotlib</td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="50" height="50" /><br/>Seaborn</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" /><br/>Scikit-learn</td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" width="50" height="50" /><br/>SymPy</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" /><br/>TensorFlow</td>
-    </tr>
-  </table>
-</div>
-
-
-#### 🛠 Tools & Technologies
-<div align="center">
-  <table>
-    <tr>
-      <!-- Version Control -->
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" /><br/>Git</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" /><br/>GitHub</td>
-      <!-- Development -->
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" /><br/>VS Code</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" /><br/>Docker</td>
-      <!-- Python & Data -->
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" /><br/>Jupyter</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="50" height="50" /><br/>Anaconda</td>
-      <!-- Cloud & OS -->
-      <td align="center"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" /><br/>Google Colab</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" /><br/>WSL2 (Ubuntu)</td>
-      <!-- Docs & AI -->
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="50" height="50" /><br/>LaTeX</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/chatgpt.png" width="50" height="50" /><br/>LLM Tools</td>
-    </tr>
-  </table>
-</div>
-
-
----
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Performance%20Analytics&fontSize=30&fontAlignY=35&animation=twinkling" alt="Stats Header"/>
-</p>
-
-<div align="center">
-
-#### 📈 Overall Performance
-
-<p align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=Pranav-0440&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
-       alt="GitHub Stats"/>
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-0440&layout=compact&langs_count=12&theme=radical&hide_border=true"
-       alt="Top Languages"/>
-</p>
-
-#### 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-0440&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak" />
-
-#### 📊 Detailed Analytics
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-0440&theme=radical" alt="Profile Details" />
-
-</div>
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav-0440&theme=radical" alt="Repos per Language" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranav-0440&theme=radical" alt="Most Commit Language" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranav-0440&theme=radical" alt="Stats" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranav-0440&theme=radical" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-
-### 🧰 Currently Working On
-
-
-- 🔹 Open Source Contributions
-- 🔹 Data Structure And Algorithm's
-- 🔹 Gesture AI – Real-time system control using hand tracking
-- 🔹 HotelFaceLoyalty – Facial recognition + loyalty system for hotel guests
-- 🔹 Offline Assistant – Voice/chat assistant with no internet dependency
-  
----
-### 📜 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/pranav_0440/">
-    <img src="https://leetcard.jacoblin.cool/pranav_0440?theme=dark&font=Marcellus&ext=heatmap" width="75%" />
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=160&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Pranav+Ghorpade;%F0%9F%9A%80+Building+real-world+products+with+code+%26+AI;%F0%9F%A7%A0+Exploring+Data+Structures%2C+ML%2C+%26+Full-Stack" 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
 
----
-### 🏆 GitHub Achievements
+<br>
 
-<p align="center"> 
-  <img src="https://trophygh.kolioaris.xyz/?username=Pranav-0440&theme=onedark&margin-w=20&no-frame=true" alt="GitHub Trophy" /> 
+<!-- ──────────────── VISITOR BADGE & PROFILE VIEWS ──────────────── -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranav-0440&label=👀+Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pranav-0440?tab=followers">
+    <img src="https://img.shields.io/github/followers/Pranav-0440?label=Followers&style=for-the-badge&color=6C63FF&labelColor=0d1117" alt="Followers" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pranav-0440?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-✨-6C63FF?style=for-the-badge&labelColor=0d1117" alt="Repos" />
+  </a>
 </p>
 
----
-### 📈 GitHub Activity Graph
+<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                             🧠 ABOUT ME                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+  &nbsp; About Me &nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+</h2>
+
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td width="50%">
+
+```yaml
+Name:       Pranav Ghorpade
+Located_in: India
+Education:  Engineering Student
+
+Fields_of_Interest:
+  - Artificial Intelligence
+  - Data Structures & Algorithms  
+  - Full-Stack Development
+  - Open Source Contributions
+
+Currently_Working_On:
+  - Gesture AI Systems
+  - Hotel Face Loyalty
+  - Offline AI Assistant
+
+Hobbies:
+  - Competitive Programming
+  - Building AI Projects
+  - Exploring New Tech
+```
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-0440&theme=github-dark&border_radius=15" alt="GitHub Activity Graph" />
+  <img src="https://img.shields.io/badge/🔭_Building-DSA_|_AI_Projects_|_Open_Source-6C63FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🌱_Learning-Java_|_Python_|_Full--Stack-FF6B6B?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💡_Passionate-AI_|_Clean_Tech_|_Gesture_Interfaces-4ECDC4?style=for-the-badge&labelColor=0d1117" />
 </p>
 
----
-
-![GitHub GIF](githubgif.gif)
-
-> ⚙️ “Code is my canvas. AI is my playground.”
-
-### 🌐 Let's Connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pranav-ghorpade-4a9913293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:pranavghorpade82@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
-  <a href="https://github.com/Pranav-0440"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
+<p align="center">
+  <a href="mailto:pranavghorpade82@gmail.com">
+    <img src="https://img.shields.io/badge/📫_Reach_Me-pranavghorpade82@gmail.com-6C63FF?style=for-the-badge&labelColor=0d1117" />
+  </a>
 </p>
 
----
+<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                       🧰 TECH STACK                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
+  &nbsp; Tech Stack &nbsp;
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
+</h2>
+
+<br>
+
+<!-- ─── Languages ─── -->
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+</p>
+
+<!-- ─── Frameworks & Libraries ─── -->
+<h3 align="center">📚 Frameworks & Libraries</h3>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="Microservices"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy"/></a>
+</p>
+
+<!-- ─── Tools & Platforms ─── -->
+<h3 align="center">🛠 Tools & Platforms</h3>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Tools"/></a>
+</p>
+
+<br>
+
+<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                          📊 GITHUB STATISTICS                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />
+  &nbsp; GitHub Statistics &nbsp;
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />
+</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6C63FF&height=2" width="80%" />
+</p>
+
+<!-- ─── Stats + Languages Side by Side ─── -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pranav-0440&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=a9b1d6&ring_color=6C63FF" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-0440&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=a9b1d6" alt="Top Languages"/>
+</p>
+
+<!-- ─── Streak Stats ─── -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-0440&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=a9b1d6&dates=545454" alt="GitHub Streak" />
+</p>
+
+<!-- ─── Profile Details Graph ─── -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-0440&theme=tokyonight" alt="Profile Details" width="85%"/>
+</p>
+
+<!-- ─── Summary Cards Grid ─── -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav-0440&theme=tokyonight" alt="Repos per Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranav-0440&theme=tokyonight" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranav-0440&theme=tokyonight" alt="Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranav-0440&theme=tokyonight" alt="Productive Time" />
+</p>
+
+<br>
+
+<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                    🐍 CONTRIBUTION SNAKE                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  🐍 Contribution Snake
+</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-0440/Pranav-0440/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav-0440/Pranav-0440/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Pranav-0440/Pranav-0440/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+> 💡 **Tip:** To enable the snake animation, add a GitHub Action workflow. See the setup instructions below in the [Snake Setup](#-snake-animation-setup) section.
+
+<br>
+
+<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                      🚀 CURRENTLY WORKING ON                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
+  &nbsp; Currently Working On
+</h2>
+
+<p align="center">
+  <sub>🤖 This section is <b>auto-updated</b> every 6 hours based on my most active repos in the past 7 days.</sub>
+</p>
+
+<div align="center">
+
+<!-- WORKING_ON_START -->
+
+| # | 🎯 Repository | 💻 Language | 🗓️ Commits (7d) | 📊 Activity |
+|:---:|:---|:---:|:---:|:---:|
+| 1 | [**Pranav-0440**](https://github.com/Pranav-0440/Pranav-0440)<br><sub>Profile README repository</sub> | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | ![Commits](https://img.shields.io/badge/loading...-6C63FF?style=flat-square) | ![Activity](https://img.shields.io/badge/🔄_Updating-FFE66D?style=flat-square) |
+
+<p align="right"><sub>🔄 Waiting for first GitHub Actions run...</sub></p>
+
+<!-- WORKING_ON_END -->
+
+</div>
+
+<br>
+
+<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                        📜 LEETCODE STATS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28" />
+  &nbsp; LeetCode Stats
+</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/pranav_0440/">
+    <img src="https://leetcard.jacoblin.cool/pranav_0440?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=15" width="70%" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+<br>
+
+<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                       🏆 GITHUB ACHIEVEMENTS                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  🏆 GitHub Achievements
+</h2>
+
+<p align="center"> 
+  <img src="https://trophygh.kolioaris.xyz/?username=Pranav-0440&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophy" />
+</p>
+
+<br>
+
+<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                      📈 ACTIVITY GRAPH                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  📈 Activity Graph
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-0440&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="95%"/>
+</p>
+
+<br>
+
+<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                         🌐 CONNECT WITH ME                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" />
+  &nbsp; Let's Connect!
+</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranav-ghorpade-4a9913293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:pranavghorpade82@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Pranav-0440" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/pranav_0440/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+<br>
+
+<!-- ──────────────── RANDOM DEV QUOTE ──────────────── -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
+</p>
+
+<br>
+
+<!-- ──────────────── INSPIRATIONAL QUOTE ──────────────── -->
+<div align="center">
+
+  ![GitHub GIF](githubgif.gif)
+
+  <br>
+
+  ```
+  ⚙️  "Code is my canvas. AI is my playground."
+  ```
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                    🐍 SNAKE ANIMATION SETUP                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><b>🐍 Snake Animation Setup</b></summary>
+
+<br>
+
+To enable the contribution snake animation, create a file at `.github/workflows/snake.yml` in your profile repository with this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Pranav-0440
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then manually trigger the workflow once from the **Actions** tab in your repository.
+
+</details>
+
+<!-- ──────────────── ANIMATED FOOTER BANNER ──────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
