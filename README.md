@@ -207,28 +207,7 @@ Hobbies:
 <!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    🐍 CONTRIBUTION SNAKE                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  🐍 Contribution Snake
-</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-0440/Pranav-0440/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav-0440/Pranav-0440/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Pranav-0440/Pranav-0440/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
-
-> 💡 **Tip:** To enable the snake animation, add a GitHub Action workflow. See the setup instructions below in the [Snake Setup](#-snake-animation-setup) section.
-
-<br>
-
-<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                      🚀 CURRENTLY WORKING ON                                -->
@@ -367,47 +346,7 @@ Hobbies:
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    🐍 SNAKE ANIMATION SETUP                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<details>
-<summary><b>🐍 Snake Animation Setup</b></summary>
-
-<br>
-
-To enable the contribution snake animation, create a file at `.github/workflows/snake.yml` in your profile repository with this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Pranav-0440
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then manually trigger the workflow once from the **Actions** tab in your repository.
-
-</details>
 
 <!-- ──────────────── ANIMATED FOOTER BANNER ──────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
