@@ -8,12 +8,13 @@
 <!-- ──────────────── ANIMATED TYPING SVG ──────────────── -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=160&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Pranav+Ghorpade;%F0%9F%9A%80+Building+real-world+products+with+code+%26+AI;%F0%9F%A7%A0+Exploring+Data+Structures%2C+ML%2C+%26+Full-Stack" 
-      alt="Typing SVG" 
-    />
-  </a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=900&lines=AI+Systems+Engineer+%26+Product+Innovator;Building+Scalable+AI+Platforms+%26+Microservices;Open-Source+Contributor+%7C+Cloud+%26+ML+Engineer" 
+    alt="Typing SVG" 
+  />
+</a>
 </p>
+<br>
 
 <!-- ──────────────── VISITOR BADGE & PROFILE VIEWS ──────────────── -->
 <p align="center">
