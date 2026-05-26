@@ -15,9 +15,6 @@
   </a>
 </p>
 
-<br>
-<br>
-
 <!-- ──────────────── VISITOR BADGE & PROFILE VIEWS ──────────────── -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranav-0440&label=👀+Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
@@ -35,20 +32,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                             🧠 ABOUT ME                                     -->
+<!--                       TWO COLUMN LAYOUT START                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td width="50%" valign="top">
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
-  &nbsp; About Me &nbsp;
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+<!-- ──────────────── COLUMN 1: ABOUT & TECH ──────────────── -->
+
+<h2 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" />
+  &nbsp; About Me
 </h2>
 
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-<tr>
-<td width="50%">
-
-```yaml
+<pre style="background: #161b22; padding: 12px; border-radius: 8px; border: 1px solid #30363d; color: #e6edf3; font-family: monospace; font-size: 12px; line-height: 1.4; margin: 0;">
 Name:       Pranav Ghorpade
 Located_in: India
 Education:  Engineering Student
@@ -68,49 +65,26 @@ Hobbies:
   - Competitive Programming
   - Building AI Projects
   - Exploring New Tech
-```
+</pre>
 
-</td>
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔭_Building-DSA_|_AI_Projects_|_Open_Source-6C63FF?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🌱_Learning-Java_|_Python_|_Full--Stack-FF6B6B?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/💡_Passionate-AI_|_Clean_Tech_|_Gesture_Interfaces-4ECDC4?style=for-the-badge&labelColor=0d1117" />
-</p>
-
-<p align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/🔭_Building-DSA_|_AI_Projects_|_Open_Source-6C63FF?style=for-the-badge&labelColor=0d1117" /><br>
+  <img src="https://img.shields.io/badge/🌱_Learning-Java_|_Python_|_Full--Stack-FF6B6B?style=for-the-badge&labelColor=0d1117" /><br>
+  <img src="https://img.shields.io/badge/💡_Passionate-AI_|_Clean_Tech_|_Gesture_Interfaces-4ECDC4?style=for-the-badge&labelColor=0d1117" /><br>
   <a href="mailto:pranavghorpade82@gmail.com">
     <img src="https://img.shields.io/badge/📫_Reach_Me-pranavghorpade82@gmail.com-6C63FF?style=for-the-badge&labelColor=0d1117" />
   </a>
 </p>
 
-<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                       🧰 TECH STACK                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
-  &nbsp; Tech Stack &nbsp;
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
-</h2>
-
 <br>
 
-<!-- ─── Languages ─── -->
-<h3 align="center">💻 Languages</h3>
-<p align="center">
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" />
+  &nbsp; Tech Stack
+</h2>
+
+<h3 align="left">💻 Languages</h3>
+<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
@@ -121,9 +95,8 @@ Hobbies:
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
 </p>
 
-<!-- ─── Frameworks & Libraries ─── -->
-<h3 align="center">📚 Frameworks & Libraries</h3>
-<p align="center">
+<h3 align="left">📚 Frameworks & Libraries</h3>
+<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI"/></a>
@@ -139,9 +112,8 @@ Hobbies:
   <a href="#"><img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy"/></a>
 </p>
 
-<!-- ─── Tools & Platforms ─── -->
-<h3 align="center">🛠 Tools & Platforms</h3>
-<p align="center">
+<h3 align="left">🛠 Tools & Platforms</h3>
+<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
@@ -156,51 +128,87 @@ Hobbies:
 
 <br>
 
-<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                          📊 GITHUB STATISTICS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />
-  &nbsp; GitHub Statistics &nbsp;
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />
+<h2 align="left">
+  🏆 GitHub Achievements
 </h2>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6C63FF&height=2" width="80%" />
-</p>
-
-<!-- ─── Streak Stats ─── -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-0440&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=a9b1d6&dates=545454" alt="GitHub Streak" />
-</p>
-
-<!-- ─── Profile Details Graph ─── -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-0440&theme=tokyonight" alt="Profile Details" width="85%"/>
-</p>
-
-<!-- ─── Summary Cards Grid ─── -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav-0440&theme=tokyonight" alt="Repos per Language" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranav-0440&theme=tokyonight" alt="Most Commit Language" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranav-0440&theme=tokyonight" alt="Stats" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranav-0440&theme=tokyonight" alt="Productive Time" />
+<p align="left"> 
+  <img src="https://trophygh.kolioaris.xyz/?username=Pranav-0440&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=3" alt="GitHub Trophy" width="100%" />
 </p>
 
 <br>
 
+<h2 align="left">
+  📊 Profile Summary
+</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-0440&theme=tokyonight" alt="Profile Details" width="100%"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<!-- ──────────────── COLUMN 2: METRICS & GRAPHS ──────────────── -->
+
+<h3 align="center"><span style="color: #6C63FF;">AI</span> &nbsp;|&nbsp; <span style="color: #FF6B6B;">Full-Stack</span> &nbsp;|&nbsp; <span style="color: #4ECDC4;">DSA</span></h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
+</p>
+
+
+
+<h3 align="center">📈 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-0440&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
+</p>
+
+<br>
+
+<h3 align="center">🔥 GitHub Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-0440&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=a9b1d6&dates=545454" alt="GitHub Streak" width="100%"/>
+</p>
+
+<br>
+
+<h3 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20" />
+  &nbsp; LeetCode Stats
+</h3>
+<p align="center">
+  <a href="https://leetcode.com/u/pranav_0440/">
+    <img src="https://leetcard.jacoblin.cool/pranav_0440?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=15" width="100%" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+<br>
+
+<h3 align="center">⚡ GitHub Summary Stats</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranav-0440&theme=tokyonight" alt="Stats" width="100%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav-0440&theme=tokyonight" alt="Repos per Language" width="48%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranav-0440&theme=tokyonight" alt="Most Commit Language" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranav-0440&theme=tokyonight" alt="Productive Time" width="100%" />
+</p>
+
+</td>
+</tr>
+</table>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                        TWO COLUMN LAYOUT END                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                      🚀 CURRENTLY WORKING ON                                -->
@@ -228,60 +236,6 @@ Hobbies:
 <!-- WORKING_ON_END -->
 
 </div>
-
-<br>
-
-<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        📜 LEETCODE STATS                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28" />
-  &nbsp; LeetCode Stats
-</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/u/pranav_0440/">
-    <img src="https://leetcard.jacoblin.cool/pranav_0440?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=15" width="70%" alt="LeetCode Stats"/>
-  </a>
-</p>
-
-<br>
-
-<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                       🏆 GITHUB ACHIEVEMENTS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  🏆 GitHub Achievements
-</h2>
-
-<p align="center"> 
-  <img src="https://trophygh.kolioaris.xyz/?username=Pranav-0440&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophy" />
-</p>
-
-<br>
-
-<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                      📈 ACTIVITY GRAPH                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  📈 Activity Graph
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-0440&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="95%"/>
-</p>
 
 <br>
 
@@ -338,8 +292,6 @@ Hobbies:
 </div>
 
 <br>
-
-
 
 <!-- ──────────────── ANIMATED FOOTER BANNER ──────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
