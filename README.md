@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ──────────────── ANIMATED HEADER BANNER ──────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6C63FF&height=220&section=header&text=Pranav%20Ghorpade&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20Open%20Source%20Contributor%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18&descColor=a9b1d6" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27,100:6C63FF&height=100&section=header" width="100%"/>
 
 <!-- ──────────────── ANIMATED TYPING SVG ──────────────── -->
 <p align="center">
@@ -290,8 +290,3 @@ Hobbies:
   ```
 
 </div>
-
-<br>
-
-<!-- ──────────────── ANIMATED FOOTER BANNER ──────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
