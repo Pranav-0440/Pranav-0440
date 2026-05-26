@@ -173,13 +173,6 @@ Hobbies:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6C63FF&height=2" width="80%" />
 </p>
 
-<!-- ─── Stats + Languages Side by Side ─── -->
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pranav-0440&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=a9b1d6&ring_color=6C63FF" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-0440&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=a9b1d6" alt="Top Languages"/>
-</p>
-
 <!-- ─── Streak Stats ─── -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-0440&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=a9b1d6&dates=545454" alt="GitHub Streak" />
