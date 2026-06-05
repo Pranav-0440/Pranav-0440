@@ -231,9 +231,9 @@ Hobbies:
 | # | 🎯 Repository | 💻 Language | 🗓️ Commits (7d) | 📊 Activity |
 |:---:|:---|:---:|:---:|:---:|
 | 1 | [**threat-incident-management**](https://github.com/Pranav-0440/threat-incident-management) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) | ![Commits](https://img.shields.io/badge/13_commits-6C63FF?style=flat-square) | ![Activity](https://img.shields.io/badge/⚡_Very_Active-FF6B6B?style=flat-square) |
-| 2 | [**LeetCodes**](https://github.com/Pranav-0440/LeetCodes) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Commits](https://img.shields.io/badge/6_commits-6C63FF?style=flat-square) | ![Activity](https://img.shields.io/badge/✅_Active-4ECDC4?style=flat-square) |
+| 2 | [**LeetCodes**](https://github.com/Pranav-0440/LeetCodes) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Commits](https://img.shields.io/badge/8_commits-6C63FF?style=flat-square) | ![Activity](https://img.shields.io/badge/⚡_Very_Active-FF6B6B?style=flat-square) |
 
-<p align="right"><sub>🔄 Auto-updated: June 05, 2026 14:55 UTC</sub></p>
+<p align="right"><sub>🔄 Auto-updated: June 05, 2026 19:57 UTC</sub></p>
 
 <!-- WORKING_ON_END -->
 
