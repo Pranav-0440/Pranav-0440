@@ -18,7 +18,7 @@
 
 <!-- ──────────────── VISITOR BADGE & PROFILE VIEWS ──────────────── -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranav-0440&label=👀+Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Pranav-0440&label=👀+Profile+Views&color=F5382A&style=for-the-badge" alt="Profile Views" />
   &nbsp;&nbsp;
   <a href="https://github.com/Pranav-0440?tab=followers">
     <img src="https://img.shields.io/github/followers/Pranav-0440?label=Followers&style=for-the-badge&color=6C63FF&labelColor=0d1117" alt="Followers" />
