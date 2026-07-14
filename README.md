@@ -230,9 +230,9 @@ Hobbies:
 
 | # | 🎯 Repository | 💻 Language | 🗓️ Commits (7d) | 📊 Activity |
 |:---:|:---|:---:|:---:|:---:|
-| 1 | [**Microservices-Deployment-Platform**](https://github.com/Pranav-0440/Microservices-Deployment-Platform)<br><sub>A comprehensive microservices application built...</sub> | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Commits](https://img.shields.io/badge/3_commits-6C63FF?style=flat-square) | ![Activity](https://img.shields.io/badge/🔨_Building-FFE66D?style=flat-square) |
+| 1 | [**LeetCodes**](https://github.com/Pranav-0440/LeetCodes) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Commits](https://img.shields.io/badge/2_commits-6C63FF?style=flat-square) | ![Activity](https://img.shields.io/badge/🔨_Building-FFE66D?style=flat-square) |
 
-<p align="right"><sub>🔄 Auto-updated: July 14, 2026 13:47 UTC</sub></p>
+<p align="right"><sub>🔄 Auto-updated: July 14, 2026 19:22 UTC</sub></p>
 
 <!-- WORKING_ON_END -->
 
