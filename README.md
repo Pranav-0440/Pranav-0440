@@ -228,12 +228,11 @@ Hobbies:
 
 <!-- WORKING_ON_START -->
 
-| 🎯 | 📝 | 🗓️ | 📊 |
-|:---:|:---|:---:|:---:|
-| — | _No commit activity this week_ | — | — |
+| # | 🎯 Repository | 💻 Language | 🗓️ Commits (7d) | 📊 Activity |
+|:---:|:---|:---:|:---:|:---:|
+| 1 | [**LeetCodes**](https://github.com/Pranav-0440/LeetCodes) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Commits](https://img.shields.io/badge/2_commits-6C63FF?style=flat-square) | ![Activity](https://img.shields.io/badge/🔨_Building-FFE66D?style=flat-square) |
 
-
-<p align="right"><sub>🔄 Auto-updated: August 03, 2026 14:41 UTC</sub></p>
+<p align="right"><sub>🔄 Auto-updated: August 03, 2026 19:38 UTC</sub></p>
 
 <!-- WORKING_ON_END -->
 
