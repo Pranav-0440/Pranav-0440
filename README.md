@@ -2,21 +2,26 @@
 <!-- 🚀 PRANAV GHORPADE — GitHub Profile README                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ──────────────── ANIMATED HEADER BANNER ──────────────── -->
+<!-- ──────────────── ANIMATED HEADER BANNER ──────────────── 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27,100:6C63FF&height=100&section=header" width="100%"/>
 
 <!-- ──────────────── ANIMATED TYPING SVG ──────────────── -->
+
+<img width="1983" height="793" alt="ChatGPT Image Aug 13, 2026, 06_45_08 PM" src="https://github.com/user-attachments/assets/e7976fbd-ff72-47fb-b9f3-89f641bde5df" />
+<br><br>
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=900&lines=AI+Systems+Engineer+%26+Product+Innovator;Building+Scalable+AI+Platforms+%26+Microservices;Open-Source+Contributor+%7C+Cloud+%26+ML+Engineer" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=D08C40&center=true&vCenter=true&repeat=true&width=900&lines=AI+Systems+Engineer+%26+Product+Innovator;Building+Scalable+AI+Platforms+%26+Microservices;Open-Source+Contributor+%7C+Cloud+%26+ML+Engineer" 
     alt="Typing SVG" 
   />
 </a>
 </p>
 <br>
 
-<!-- ──────────────── VISITOR BADGE & PROFILE VIEWS ──────────────── -->
+<!-- ──────────────── VISITOR BADGE & PROFILE VIEWS ──────────────── 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranav-0440&label=👀+Profile+Views&color=F5382A&style=for-the-badge" alt="Profile Views" />
   &nbsp;&nbsp;
@@ -29,7 +34,7 @@
   </a>
 </p>
 
-<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
+<!-- ──────────────── ANIMATED DIVIDER ──────────────── 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -148,26 +153,26 @@ Hobbies:
 </td>
 <td width="50%" valign="top">
 
-<!-- ──────────────── COLUMN 2: METRICS & GRAPHS ──────────────── -->
+<!-- ──────────────── COLUMN 2: METRICS & GRAPHS ──────────────── 
 
 <h3 align="center"><span style="color: #6C63FF;">AI</span> &nbsp;|&nbsp; <span style="color: #FF6B6B;">Full-Stack</span> &nbsp;|&nbsp; <span style="color: #4ECDC4;">DSA</span></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
 </p>
-
+-->
 
 
 <h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-0440&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-0440&bg_color=0d1117&color=D08C40&line=D08C40&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 <br>
 
 <h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-0440&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=a9b1d6&dates=545454" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-0440&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=a9b1d6&dates=545454" alt="GitHub Streak" width="100%" color=D08C40/>
 </p>
 
 <br>
@@ -208,8 +213,9 @@ Hobbies:
 <!--                        TWO COLUMN LAYOUT END                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
+<!-- ──────────────── ANIMATED DIVIDER ──────────────── 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+-->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                      🚀 CURRENTLY WORKING ON                                -->
@@ -243,9 +249,28 @@ Hobbies:
 
 <br>
 
-<!-- ──────────────── ANIMATED DIVIDER ──────────────── -->
+<!-- ──────────────── ANIMATED DIVIDER ──────────────── 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+-->
 
+<br>
+
+<!-- ──────────────── RANDOM DEV QUOTE ──────────────── -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
+</p>
+
+<br>
+
+<!-- ──────────────── INSPIRATIONAL QUOTE ──────────────── 
+<div align="center">
+
+  ![GitHub GIF](githubgif.gif)
+
+  <br>
+-->
+
+</div>
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                         🌐 CONNECT WITH ME                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -272,25 +297,3 @@ Hobbies:
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
-
-<br>
-
-<!-- ──────────────── RANDOM DEV QUOTE ──────────────── -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
-</p>
-
-<br>
-
-<!-- ──────────────── INSPIRATIONAL QUOTE ──────────────── -->
-<div align="center">
-
-  ![GitHub GIF](githubgif.gif)
-
-  <br>
-
-  ```
-  ⚙️  "Code is my canvas. AI is my playground."
-  ```
-
-</div>
