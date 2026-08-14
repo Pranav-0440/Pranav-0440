@@ -7,9 +7,9 @@
 
 <!-- ──────────────── ANIMATED TYPING SVG ──────────────── -->
 
-<img width="1983" height="793" alt="ChatGPT Image Aug 13, 2026, 06_45_08 PM" src="https://github.com/user-attachments/assets/e7976fbd-ff72-47fb-b9f3-89f641bde5df" />
-<br><br>
-
+<p align="center">
+  <img src="./main.webp" width="100%" alt="Pranav Ghorpade" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
