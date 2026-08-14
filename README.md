@@ -137,8 +137,12 @@ Hobbies:
 <h2 align="left">
   🏆 GitHub Achievements
 </h2>
-<p align="left"> 
-  <img src="https://trophygh.kolioaris.xyz/?username=Pranav-0440&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=3" alt="GitHub Trophy" width="100%" />
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Pranav-0440&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=3"
+    alt="GitHub Trophy"
+    width="100%"
+  />
 </p>
 
 <br>
