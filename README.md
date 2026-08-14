@@ -176,7 +176,7 @@ Hobbies:
 
 <h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-0440&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=a9b1d6&dates=545454" alt="GitHub Streak" width="100%" color=D08C40/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-0440&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=FF2800&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=a9b1d6&dates=545454" alt="GitHub Streak" width="100%" color=D08C40/>
 </p>
 
 <br>
