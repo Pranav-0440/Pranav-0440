@@ -54,7 +54,7 @@
 <pre style="background: #161b22; padding: 12px; border-radius: 8px; border: 1px solid #30363d; color: #e6edf3; font-family: monospace; font-size: 12px; line-height: 1.4; margin: 0;">
 Name:       Pranav Ghorpade
 Located_in: India
-Education:  B.E. in E&TC | CGPA: 9.2/10 (AVCOE, SPPU)
+Education:  B.E. in E&TC | CGPA: 8.82/10 (AVCOE, SPPU)
 Role:       Java Full Stack Developer
 
 Fields_of_Interest:
@@ -175,29 +175,38 @@ Experience_&_Impact:
 
 <br>
 
-<h3 align="center">⚡ GitHub Summary Stats</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranav-0440&theme=tokyonight" alt="Stats" width="100%" />
+<h3 align="left">🌐 Open Source & Community Impact</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Merged_PRs-40%2B_Contributions-brightgreen?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-45%2B_Contributed-blueviolet?style=flat-square&logo=github&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/IEEE_SoC-2026_Project_Admin-00629B?style=flat-square&logo=ieee&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse_Foundation-ThingWeb_Contributor-orange?style=flat-square&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSSoC-2026_Contributor-F4B400?style=flat-square" />
+</p>
+<ul style="margin: 0; padding-left: 18px; font-size: 13px;">
+  <li><b>IEEE Summer of Code 2026:</b> Project Admin managing project roadmaps and mentoring contributors.</li>
+  <li><b>Eclipse ThingWeb:</b> Merged PRs for Monaco editor, Modbus schema validation & CSV affordances; formed basis of <b>GSoC '26</b> proposal.</li>
+  <li><b>GirlScript Summer of Code '26:</b> 30+ merged PRs across 4+ repositories in DSA & full-stack development.</li>
+</ul>
+
+<br>
+
+<h3 align="left">📜 Certifications & Honors</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations_Graduate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Snowflake-AI_Agents_with_Cortex-29B5E8?style=flat-square&logo=snowflake&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Google_%2F_Kaggle-AI_Agents_Intensive-4285F4?style=flat-square&logo=google&logoColor=white" />
 </p>
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav-0440&theme=tokyonight" alt="Repos per Language" width="48%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranav-0440&theme=tokyonight" alt="Most Commit Language" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranav-0440&theme=tokyonight" alt="Productive Time" width="100%" />
-</p>
-
-<br>
-
-<h3 align="center">📊 Profile Summary</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-0440&theme=tokyonight" alt="Profile Details" width="100%"/>
-</p>
+<h3 align="left">💼 Experience & Education</h3>
+<ul style="margin: 0; padding-left: 18px; font-size: 13px;">
+  <li><b>Infosys Springboard</b> · <i>AI/ML Developer Intern</i> (Nov 2025 – Jan 2026)<br>
+  Engineered 10k+ record shipment pipeline (85%+ accuracy) & Streamlit web app.</li>
+  <li><b>AVCOE, SPPU</b> · <i>B.E. in Electronics & Telecommunication</i> (2023 – 2027)<br>
+  <b>CGPA: 8.82 / 10.0</b> (Final Year)</li>
+</ul>
 
 </td>
 </tr>
