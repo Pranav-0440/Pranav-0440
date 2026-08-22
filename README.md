@@ -54,24 +54,27 @@
 <pre style="background: #161b22; padding: 12px; border-radius: 8px; border: 1px solid #30363d; color: #e6edf3; font-family: monospace; font-size: 12px; line-height: 1.4; margin: 0;">
 Name:       Pranav Ghorpade
 Located_in: India
-Education:  Engineering Student
+Education:  B.E. in E&TC | CGPA: 9.2/10 (AVCOE, SPPU)
+Role:       Java Full Stack Developer
 
 Fields_of_Interest:
-  - Artificial Intelligence
-  - Data Structures & Algorithms  
-  - Full-Stack Development
-  - Open Source Contributions
+  - Spring Boot 3 & Microservices
+  - Full-Stack Web Development (React.js)
+  - Cloud & DevOps (Docker, K8s, AWS)
+  - Open Source Contributions (Eclipse)
 
 Currently_Working_On:
-  - Gesture AI Systems
-  - Hotel Face Loyalty
-  - Offline AI Assistant
+  - ThreatGuard Incident Management
+  - Microservices E-Commerce Platform
+  - Autonomous AI Customer Support Agent
 
-Hobbies:
-  - Competitive Programming
-  - Building AI Projects
-  - Exploring New Tech
+Experience_&_Impact:
+  - AI/ML Developer Intern @ Infosys Springboard
+  - 40+ Merged PRs across 45+ Repos (GSSoC)
+  - AWS Cloud Foundations Certified
 </pre>
+
+<br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/🔭_Building-DSA_|_AI_Projects_|_Open_Source-6C63FF?style=for-the-badge&labelColor=0d1117" /><br>
@@ -93,79 +96,58 @@ Hobbies:
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
 </p>
 
-<h3 align="left">📚 Frameworks & Libraries</h3>
+<h3 align="left">📚 Frameworks & Backend</h3>
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="Microservices"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/></a>
 </p>
 
-<h3 align="left">🛠 Tools & Platforms</h3>
+<h3 align="left">🗄️ Databases & Messaging</h3>
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/></a>
+</p>
+
+<h3 align="left">☁️ Cloud, DevOps & Testing</h3>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Tools"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 
-<br>
-
-<h2 align="left">
-  🏆 GitHub Achievements
-</h2>
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Pranav-0440&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=3"
-    alt="GitHub Trophy"
-    width="100%"
-  />
-</p>
-
-<br>
-
-<h2 align="left">
-  📊 Profile Summary
-</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-0440&theme=tokyonight" alt="Profile Details" width="100%"/>
+<h3 align="left">🤖 AI, ML & Agentic Systems</h3>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LLM_Integration-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge" alt="XGBoost"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<!-- ──────────────── COLUMN 2: METRICS & GRAPHS ──────────────── 
-
-<h3 align="center"><span style="color: #6C63FF;">AI</span> &nbsp;|&nbsp; <span style="color: #FF6B6B;">Full-Stack</span> &nbsp;|&nbsp; <span style="color: #4ECDC4;">DSA</span></h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
-</p>
--->
-
+<!-- ──────────────── COLUMN 2: METRICS & GRAPHS ──────────────── -->
 
 <h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
@@ -208,6 +190,13 @@ Hobbies:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranav-0440&theme=tokyonight" alt="Productive Time" width="100%" />
+</p>
+
+<br>
+
+<h3 align="center">📊 Profile Summary</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-0440&theme=tokyonight" alt="Profile Details" width="100%"/>
 </p>
 
 </td>
