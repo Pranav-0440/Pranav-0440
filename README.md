@@ -8,7 +8,7 @@
 <!-- ──────────────── ANIMATED TYPING SVG ──────────────── -->
 
 <p align="center">
-  <img src="./main.webp" width="100%" alt="Pranav Ghorpade" />
+  <img src="./pgq.png" width="100%" alt="Pranav Ghorpade" />
 </p>
 
 <p align="center">
