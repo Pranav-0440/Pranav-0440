@@ -238,9 +238,10 @@ Experience_&_Impact:
 
 | # | 🎯 Repository | 💻 Language | 🗓️ Commits (7d) | 📊 Activity |
 |:---:|:---|:---:|:---:|:---:|
-| 1 | [**threat-incident-management**](https://github.com/Pranav-0440/threat-incident-management)<br><sub>A full-stack threat incident management applica...</sub> | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) | ![Commits](https://img.shields.io/badge/21_commits-6C63FF?style=flat-square) | ![Activity](https://img.shields.io/badge/🔥_On_Fire-FF4444?style=flat-square) |
+| 1 | [**threat-incident-management**](https://github.com/Pranav-0440/threat-incident-management)<br><sub>A full-stack threat incident management applica...</sub> | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) | ![Commits](https://img.shields.io/badge/20_commits-6C63FF?style=flat-square) | ![Activity](https://img.shields.io/badge/🔥_On_Fire-FF4444?style=flat-square) |
+| 2 | [**HostOps-Sentinel**](https://github.com/Pranav-0440/HostOps-Sentinel) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) | ![Commits](https://img.shields.io/badge/1_commits-6C63FF?style=flat-square) | ![Activity](https://img.shields.io/badge/🌱_Growing-95E1D3?style=flat-square) |
 
-<p align="right"><sub>🔄 Auto-updated: August 26, 2026 19:49 UTC</sub></p>
+<p align="right"><sub>🔄 Auto-updated: August 27, 2026 08:04 UTC</sub></p>
 
 <!-- WORKING_ON_END -->
 
