@@ -148,25 +148,28 @@ Experience_&_Impact:
 <td width="50%" valign="top">
 
 <!-- ──────────────── COLUMN 2: METRICS & GRAPHS ──────────────── -->
+<!-- <h3 align="center">📈 Contribution Graph</h3>
 
-<h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-0440&bg_color=0d1117&color=D08C40&line=D08C40&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
-</p>
+  <img
+    src="https://raw.githubusercontent.com/Pranav-0440/Pranav-0440/output/activity-graph.svg"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</p> -->
 
-<br>
-
-<h3 align="center">🔥 GitHub Streak</h3>
-<p align="center">
+<h2 align="center">
+  &nbsp; 🔥 GitHub Streak
+</h2>
+  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-0440&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=FF2800&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=a9b1d6&dates=545454" alt="GitHub Streak" width="100%" color=D08C40/>
 </p>
-
 <br>
 
-<h3 align="center">
+<h2 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20" />
   &nbsp; LeetCode Stats
-</h3>
+</h2>
 <p align="center">
   <a href="https://leetcode.com/u/pranav_0440/">
     <img src="https://leetcard.jacoblin.cool/pranav_0440?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=15" width="100%" alt="LeetCode Stats"/>
@@ -175,7 +178,9 @@ Experience_&_Impact:
 
 <br>
 
-<h3 align="left">🌐 Open Source & Community Impact</h3>
+<h2 align="left">
+ &nbsp; 🌐 Open Source & Community Impact
+</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Merged_PRs-40%2B_Contributions-brightgreen?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Repositories-45%2B_Contributed-blueviolet?style=flat-square&logo=github&logoColor=white" /><br>
@@ -191,7 +196,8 @@ Experience_&_Impact:
 
 <br>
 
-<h3 align="left">📜 Certifications & Honors</h3>
+<h2 align="left">
+  &nbsp;📜 Certifications & Honors</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-Cloud_Foundations_Graduate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Snowflake-AI_Agents_with_Cortex-29B5E8?style=flat-square&logo=snowflake&logoColor=white" /><br>
@@ -200,7 +206,8 @@ Experience_&_Impact:
 
 <br>
 
-<h3 align="left">💼 Experience & Education</h3>
+<h2 align="left">
+  &nbsp;💼 Experience & Education</h2>
 <ul style="margin: 0; padding-left: 18px; font-size: 13px;">
   <li><b>Infosys Springboard</b> · <i>AI/ML Developer Intern</i> (Nov 2025 – Jan 2026)<br>
   Engineered 10k+ record shipment pipeline (85%+ accuracy) & Streamlit web app.</li>
