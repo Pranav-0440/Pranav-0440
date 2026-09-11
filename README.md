@@ -245,9 +245,9 @@ Experience_&_Impact:
 
 | # | 🎯 Repository | 💻 Language | 🗓️ Commits (7d) | 📊 Activity |
 |:---:|:---|:---:|:---:|:---:|
-| 1 | [**threat-incident-management**](https://github.com/Pranav-0440/threat-incident-management)<br><sub>A full-stack threat incident management applica...</sub> | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Commits](https://img.shields.io/badge/15_commits-6C63FF?style=flat-square) | ![Activity](https://img.shields.io/badge/🔥_On_Fire-FF4444?style=flat-square) |
+| 1 | [**threat-incident-management**](https://github.com/Pranav-0440/threat-incident-management)<br><sub>A full-stack threat incident management applica...</sub> | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Commits](https://img.shields.io/badge/5_commits-6C63FF?style=flat-square) | ![Activity](https://img.shields.io/badge/✅_Active-4ECDC4?style=flat-square) |
 
-<p align="right"><sub>🔄 Auto-updated: September 11, 2026 16:02 UTC</sub></p>
+<p align="right"><sub>🔄 Auto-updated: September 11, 2026 20:38 UTC</sub></p>
 
 <!-- WORKING_ON_END -->
 
